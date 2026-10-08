@@ -1,1 +1,0 @@
-# Ohm-s-Law-Calculator-
